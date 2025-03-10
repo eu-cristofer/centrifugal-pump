@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "centrifugal-pump"
+version = "0.1.0"
+description = "A Python library for API 610 centrifugal pump performance computations."
+authors = [
+    { name = "Cristofer", email = "cristofercosta@yahoo.com.br" }
+]
+readme = "README.md"
+license = { text = "Apache 2.0" }
+requires-python = ">=3.6"
+dependencies = []
+
+[project.urls]
+Homepage = "https://github.com/eu-cristofer/centrifugal-pump"

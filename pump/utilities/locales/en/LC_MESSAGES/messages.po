@@ -1,0 +1,26 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Acceptance Tests"
+msgstr "Acceptance Tests"
+
+msgid "Pump B"
+msgstr "Pump B"
+
+msgid "This is a sample paragraph added to the document."
+msgstr "This is a sample paragraph added to the document."
+
+msgid "Test Results"
+msgstr "Test Results"
+
+msgid "CONCLUSION"
+msgstr "CONCLUSION"
+
+msgid "This is the conclusion of the document."
+msgstr "This is the conclusion of the document."
+
+msgid "New document saved at"
+msgstr "New document saved at"

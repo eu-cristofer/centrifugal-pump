@@ -1,0 +1,110 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: pt\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+msgid "-X-X-X-\nNote: To update the Table of Contents, open the document in Word, right-click on the TOC, and select 'Update Field'.\n-X-X-X-"
+msgstr "-X-X-X-\nNota: Para atualizar o Sumário, abra o documento no Word, clique com o botão direito no Sumário e selecione 'Atualizar Campo'.\n-X-X-X-"
+
+msgid "8.3.3.4.3 The test data shall be fit to a spline or an appropriate polynomial (typically, not less than a third order) for head and for power using a least squares method. The resulting polynomial equation shall be stated on the head and power calculated. These values shall be corrected for speed, viscosity, and density (specific gravity).[..]"
+msgstr "8.3.3.4.3 Os dados do teste devem ser ajustados a um spline ou um polinômio apropriado (tipicamente, não inferior à terceira ordem) para altura manométrica e potência, usando um método de mínimos quadrados. A equação polinomial resultante deve ser declarada para a altura manométrica e a potência calculada. Esses valores devem ser corrigidos para rotação, viscosidade e densidade (gravidade específica).[..]"
+
+msgid "Actual"
+msgstr "Testado"
+
+msgid "Calculated Head and Power:"
+msgstr "Cálculo de Head Diferencial Total e Potência:"
+
+msgid "Design Point data:"
+msgstr "Dados do Ponto de Projeto:"
+
+msgid "Efficiency"
+msgstr "Eficiência"
+
+msgid "Equipment Description"
+msgstr "Descrição do Equipamento"
+
+msgid "Fabricante"
+msgstr "Fabricante"
+
+msgid "Flow Rate"
+msgstr "Vazão"
+
+msgid "Head"
+msgstr "Head"
+
+msgid "The following section presents the main characteristics of the equipment."
+msgstr "A seguir, apresentamos as principais características do equipamento."
+
+msgid "Here we present the key details regarding the development of the tests."
+msgstr "A seguir são apresentadas as principais informações relacionadas ao desenvolvimento dos testes."
+
+msgid "Here we can find the translation of the test results into data based on the specified speed of rotation (or frequency) and density."
+msgstr "Neste tópico é apresentada a conversão dos resultados do teste em dados estimados de performance com base na rotação e densidade especificadas."
+
+msgid "Manufacturer"
+msgstr "Fabricante"
+
+msgid "Maximum"
+msgstr "Máximo"
+
+msgid "Minimun"
+msgstr "Mínimo"
+
+msgid "Model"
+msgstr "Modelo"
+
+msgid "New document saved at"
+msgstr "Novo documento salvo em"
+
+msgid "Parameter"
+msgstr "Parâmetro"
+
+msgid "Performance Curve - Service Fluid"
+msgstr "Curva de Performance - Fluido de Trabalho"
+
+msgid "Performance Curve - Water"
+msgstr "Curva de Performance - Água"
+
+msgid "Performance test summary."
+msgstr "Sumário do teste de performance."
+
+msgid "Report"
+msgstr "Relatório"
+
+msgid "Serial Number"
+msgstr "Número de Série"
+
+msgid "Service"
+msgstr "Serviço"
+
+msgid "Template file not found:"
+msgstr "Arquivo de modelo não encontrado:"
+
+msgid "Test Data - "
+msgstr "Dados do Teste - "
+
+msgid "Test Results and Observations"
+msgstr "Resultados"
+
+msgid "Tests Development"
+msgstr "Desenvolvimento dos Testes"
+
+msgid "The computations in this section were performed in accordancy with API 610 12th issue:"
+msgstr "Os cálculos apresentados nesta seção foram realizados em acordo com o estabelecido com o item 8.3.3.4.3 da 12ª edição da norma API 610:"
+
+msgid "The primary objective of the FAT is to ensure that the pump meets the required  mechanical, and performance criteria as defined in API 610 and the project specifications. The test procedures include mechanical run tests and performance verification, vibration analysis, and NPSH (Net Positive Suction Head) testing."
+msgstr "O principal objetivo do FAT é garantir que a bomba atenda aos critérios mecânicos e de desempenho exigidos, conforme definido na API 610 e nas especificações do projeto. Os procedimentos de teste incluem testes de funcionamento mecânico, verificação de desempenho, análise de vibração e teste de NPSH (Altura Líquida Positiva de Sucção)."
+
+msgid "This report documents the Factory Acceptance Test (FAT) performed on an API 610 centrifugal pump at the manufacturer's facility. The FAT was conducted to verify compliance with the technical specifications and contractual requirements before shipment."
+msgstr "Este relatório documenta o Teste de Aceitação em Fábrica (FAT) realizado em uma bomba centrífuga API 610 nas instalações do fabricante. O FAT foi conduzido com o objetivo de verificar a conformidade com as especificações técnicas e requisitos contratuais antes do envio."
+
+msgid "This report provides a detailed record of the test procedures, observed results, and compliance with the acceptance criteria. Any deviations, corrective actions, and final acceptance status are also documented to ensure transparency and traceability of the qualification process."
+msgstr "Este relatório fornece um registro detalhado dos procedimentos de teste adotados, resultados observados e conformidade com os critérios de aceitação. Quaisquer desvios, ações corretivas e status final de aceitação também são documentados para garantir transparência e rastreabilidade do processo de qualificação."
+
+msgid "Warning: Unable to add chart"
+msgstr "Aviso: Não foi possível adicionar o gráfico"
+
+msgid "Warning: Unable to set locale, using default."
+msgstr "Aviso: Não foi possível definir o idioma, usando o padrão."
