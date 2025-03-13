@@ -7,7 +7,7 @@ name = "centrifugal-pump"
 version = "0.1.0"
 description = "A Python library for API 610 centrifugal pump performance computations."
 authors = [
-    { name = "Cristofer", email = "cristofercosta@yahoo.com.br" }
+    { name = "Cristofer Antoni", email = "cristofercosta@yahoo.com.br" }
 ]
 readme = "README.md"
 license = { text = "Apache 2.0" }
@@ -20,6 +20,11 @@ dependencies = [
     "tabulate",
     "python-docx"
 ]
-
+[project.optional-dependencies]
+dev = [
+    "black",
+    "build",
+    "pytest"
+]
 [project.urls]
 Homepage = "https://github.com/eu-cristofer/centrifugal-pump"
